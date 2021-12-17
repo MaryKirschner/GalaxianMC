@@ -1,0 +1,2 @@
+# GalaxianMC
+GalaxianMC Discord
